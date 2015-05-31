@@ -1,0 +1,24 @@
+{
+  "name": "crt",
+  "version": "0.0.0",
+  "description": "Retro CRT styles using Canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonswain/crt"
+  },
+  "keywords": [
+    "canvas",
+    "retro",
+    "crt"
+  ],
+  "author": "Simon Swain <simon@simonswain.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonswain/crt/issues"
+  },
+  "homepage": "https://github.com/simonswain/crt"
+}
